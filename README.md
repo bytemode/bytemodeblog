@@ -8,6 +8,7 @@ hugo version >= hugo_extended_0.98.0_Windows-64bit
 Installing                  
 clone the repo
 git clone git@github.com:bytemode/bytemodeblog.git
+git submodule update --init
 
 # tools
 z_deploy： init rep push github           
