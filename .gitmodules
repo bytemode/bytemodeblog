@@ -2,5 +2,5 @@
 	path = themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "bytemode.github.io"]
-	path = bytemode.github.io
+	path = public
 	url = git@github.com:bytemode/bytemode.github.io.git
